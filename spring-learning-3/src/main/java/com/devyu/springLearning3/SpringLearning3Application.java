@@ -8,6 +8,9 @@ public class SpringLearning3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringLearning3Application.class, args);
+		
+
+		
 	}
 
 }
