@@ -19,7 +19,7 @@ public class AppRunner implements ApplicationRunner {
 
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
-		
+
 		System.err.println("== 프로토타입 ==");
 		
 		System.err.println(ctx.getBean(Proto.class));
