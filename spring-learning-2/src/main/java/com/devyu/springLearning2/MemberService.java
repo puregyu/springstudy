@@ -10,7 +10,7 @@ public class MemberService {
 //	1. field를 통한 의존성 주입
 //	@Autowired
 //	MemberRepository memberRepository;
-//
+
 	
 //	2. setter 메소드를 통한 의존성 주입
 //	// default는 true이며 false의 경우 Repository가 bean으로 등록되지 않아도 D.I 기능만 하지 않을뿐 정상작동
